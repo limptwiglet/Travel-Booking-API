@@ -38,7 +38,7 @@ tags:
 - name: Stations
   description: |
     Find and filter train stations across Europe, including their location
-    and local timezone. Rob change.
+    and local timezone.
 - name: Trips
   description: |
     Timetables and routes for train trips between stations, including pricing
